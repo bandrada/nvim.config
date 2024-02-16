@@ -1,0 +1,2 @@
+require("bandrada")
+print("lua")
